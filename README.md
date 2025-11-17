@@ -11,6 +11,7 @@ PC installed with SCILAB.
 
 //  SPEECH RECOGNITION USING SCILAB
 
+
 ## OUTPUT: 
 
 
